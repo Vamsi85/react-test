@@ -55,4 +55,4 @@ jobs:
           app-name: 'shs-webapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6E6007F754F435AAFD770DD8A2785E3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80EA2A18A06D4FE7825AF5D5080EAEDC }}
